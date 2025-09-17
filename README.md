@@ -4,22 +4,6 @@
 - 🔭 I’m currently working as DevOps Engineer, AI Engineer, MLOps Engineer
 - 🌱 I’m currently learning Software and Ops skills
 
-Over the data science program of four years, and experience at work, I have gained valuable experience through both work and learning endeavors, which are summarized as follows:
-
-### 🔬 Data Science:
-- Foundation of math, statistic, calculus
-- Understand concept of optimization, deep learning, machine learning
-
-### 🚀 DevOps:
-- Experience in Docker, Kubernetes
-- Experience in setup CI/CD services and pipeline
-- Experience in deploying scalable and resilient services
-- Hands on monitoring, tracing platform by ELK stack, Opentelemetry, Signoz, Jaeger
-
-### 🤖 MLOps:
-- Experience in model monitoring, specifically in data drift detect, data quality
-- Experience in continuous training and logging model experiment into MLFlow
-
 ## 💼 Experience
 
 ### DevOps Engineer - MLOps Engineer
