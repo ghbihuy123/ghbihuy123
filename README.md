@@ -24,16 +24,6 @@
 - Deploy and optimize machine learning models
 - Research and document cutting edge MLOps framework and technology
 - Schedule and monitor models received from Data Scientist
-  
----
-
-### Translator
-**Coursera**  
-📅 **Jan 2023 - Oct 2023** · 10 months
-
-- Translate Data Science, Machine Learning and Deep Learning Course
-- Review other translation
-- Help other people while learning, translating in Coursera community
 
 ## 🎓 Education
 
