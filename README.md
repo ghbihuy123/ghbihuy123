@@ -18,7 +18,7 @@
 
 ### Machine Learning Operation Engineer
 **TPBank**  
-📅 **Jan 2024 - Mar 2025** · Over 1 Year  
+📅 **Mar 2024 - Mar 2025** · 1 Year  
 📍 Hanoi Capital Region
 
 - Deploy and optimize machine learning models
